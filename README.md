@@ -1,6 +1,9 @@
 # AISeoulYou
 AI CCTV, 로봇, App 인증을 이용하여 도심 내 공공시설물을 통한 범죄를 예방하는 솔루션입니다.
+<img width="702" height="573" alt="image" src="https://github.com/user-attachments/assets/2fed7a9c-cf65-4fe1-ba09-49f3e02cc458" />
+
 
 ## 1. 역-KDE 기반 CCTV 취약점 분석
+
 
 ## 1.1. 취약점 기반 경로 설정(아시아선수촌 공원)
