@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="페이지-1" id="8vAheNiH1j4EpkLoNyae">
+    <mxGraphModel dx="693" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="47" width="310" x="227" y="403" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-43" edge="1" parent="1" source="wCc9FtqnY1uDxocmUNyq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-52" connectable="0" parent="wCc9FtqnY1uDxocmUNyq-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="API 기반" vertex="1">
+          <mxGeometry relative="1" x="0.0545" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-47" edge="1" parent="1" source="wCc9FtqnY1uDxocmUNyq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;startArrow=classicThin;startFill=1;" target="wCc9FtqnY1uDxocmUNyq-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HaetAI 플랫폼" vertex="1">
+          <mxGeometry height="30" width="120" x="320" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-7" edge="1" parent="1" source="wCc9FtqnY1uDxocmUNyq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="wCc9FtqnY1uDxocmUNyq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-8" connectable="0" parent="wCc9FtqnY1uDxocmUNyq-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="5G/LTE기반 통신" vertex="1">
+          <mxGeometry relative="1" x="0.0286" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="해치(로봇)" vertex="1">
+          <mxGeometry height="26" width="90" x="335" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="마약탐지모듈" vertex="1">
+          <mxGeometry height="24" width="80" x="234.5" y="421" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="광학센서(카메라)" vertex="1">
+          <mxGeometry height="24" width="100" x="321.5" y="421" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-20" edge="1" parent="1" source="wCc9FtqnY1uDxocmUNyq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wCc9FtqnY1uDxocmUNyq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CCTV" vertex="1">
+          <mxGeometry height="20" width="50" x="230" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-42" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="152" width="270" x="245" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-38" connectable="0" parent="wCc9FtqnY1uDxocmUNyq-42" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="270" y="22" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-14" connectable="0" parent="wCc9FtqnY1uDxocmUNyq-38" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-39" parent="wCc9FtqnY1uDxocmUNyq-14" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="270" x="-8" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-13" parent="wCc9FtqnY1uDxocmUNyq-14" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="120" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-9" parent="wCc9FtqnY1uDxocmUNyq-14" style="rounded=0;whiteSpace=wrap;html=1;" value="ASAP" vertex="1">
+          <mxGeometry height="20" width="50" x="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-10" parent="wCc9FtqnY1uDxocmUNyq-14" style="rounded=0;whiteSpace=wrap;html=1;" value="금융결제원" vertex="1">
+          <mxGeometry height="20" width="71" x="24" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-11" parent="wCc9FtqnY1uDxocmUNyq-14" style="rounded=0;whiteSpace=wrap;html=1;" value="경찰청" vertex="1">
+          <mxGeometry height="20" width="71" x="24" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-12" parent="wCc9FtqnY1uDxocmUNyq-14" style="rounded=0;whiteSpace=wrap;html=1;" value="금융회사" vertex="1">
+          <mxGeometry height="20" width="71" x="24.5" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-31" parent="wCc9FtqnY1uDxocmUNyq-38" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="" vertex="1">
+          <mxGeometry height="110" width="120" x="134" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-32" parent="wCc9FtqnY1uDxocmUNyq-38" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="범죄데이터" vertex="1">
+          <mxGeometry height="20" width="65" x="162" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-33" parent="wCc9FtqnY1uDxocmUNyq-38" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="경찰청" vertex="1">
+          <mxGeometry height="20" width="71" x="158" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-34" parent="wCc9FtqnY1uDxocmUNyq-38" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="검찰청" vertex="1">
+          <mxGeometry height="20" width="71" x="158" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-35" parent="wCc9FtqnY1uDxocmUNyq-38" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="서울시" vertex="1">
+          <mxGeometry height="20" width="71" x="158.5" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-41" parent="wCc9FtqnY1uDxocmUNyq-42" style="rounded=0;whiteSpace=wrap;html=1;" value="민관경 데이터" vertex="1">
+          <mxGeometry height="20" width="81.5" x="86.25" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-45" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="86.5" width="120" x="480" y="276.75" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-44" parent="wCc9FtqnY1uDxocmUNyq-45" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="78.5" width="120" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-26" parent="wCc9FtqnY1uDxocmUNyq-45" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="서울교통공사" vertex="1">
+          <mxGeometry height="20" width="86" x="16.5" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="음성 긴급호출" vertex="1">
+          <mxGeometry height="24" width="100" x="429.5" y="421" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="마약탐지모듈" vertex="1">
+          <mxGeometry height="20" width="86" x="497" y="304.75" as="geometry" />
+        </mxCell>
+        <mxCell id="wCc9FtqnY1uDxocmUNyq-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="라커 시스템" vertex="1">
+          <mxGeometry height="20" width="95" x="492.5" y="270.75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
