@@ -1,0 +1,159 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="페이지-1" id="LYJWikxb9LGqaYHYCHk0">
+    <mxGraphModel dx="1084" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jplNzw6maLhlK2PETsOO-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="47" width="276" x="282" y="443" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-2" edge="1" parent="1" source="jplNzw6maLhlK2PETsOO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-3" connectable="0" parent="jplNzw6maLhlK2PETsOO-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Api 기반 데이터 교환&lt;div&gt;누적 통계/실시간 이벤트&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0545" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-4" edge="1" parent="1" source="jplNzw6maLhlK2PETsOO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;startArrow=classicThin;startFill=1;" target="jplNzw6maLhlK2PETsOO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" value="HaetAI(해태) 플랫폼" vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-6" edge="1" parent="1" source="jplNzw6maLhlK2PETsOO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="jplNzw6maLhlK2PETsOO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-7" connectable="0" parent="jplNzw6maLhlK2PETsOO-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="5G/LTE기반 통신" vertex="1">
+          <mxGeometry relative="1" x="0.0286" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="해치(로봇)" vertex="1">
+          <mxGeometry height="26" width="90" x="375" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="마약탐지모듈" vertex="1">
+          <mxGeometry height="24" width="80" x="288" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="광학센서(카메라)" vertex="1">
+          <mxGeometry height="24" width="100" x="370" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-11" edge="1" parent="1" source="jplNzw6maLhlK2PETsOO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jplNzw6maLhlK2PETsOO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CCTV" vertex="1">
+          <mxGeometry height="20" width="50" x="270" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-13" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="152" width="270" x="292" y="138" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-14" connectable="0" parent="jplNzw6maLhlK2PETsOO-13" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="270" y="22" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-15" connectable="0" parent="jplNzw6maLhlK2PETsOO-14" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-16" parent="jplNzw6maLhlK2PETsOO-15" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="270" x="-8" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-17" parent="jplNzw6maLhlK2PETsOO-15" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="120" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-18" parent="jplNzw6maLhlK2PETsOO-15" style="rounded=0;whiteSpace=wrap;html=1;" value="ASAP" vertex="1">
+          <mxGeometry height="20" width="50" x="35" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-19" parent="jplNzw6maLhlK2PETsOO-15" style="rounded=0;whiteSpace=wrap;html=1;" value="금융결제원" vertex="1">
+          <mxGeometry height="20" width="71" x="24" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-20" parent="jplNzw6maLhlK2PETsOO-15" style="rounded=0;whiteSpace=wrap;html=1;" value="경찰청" vertex="1">
+          <mxGeometry height="20" width="71" x="24" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-21" parent="jplNzw6maLhlK2PETsOO-15" style="rounded=0;whiteSpace=wrap;html=1;" value="금융회사" vertex="1">
+          <mxGeometry height="20" width="71" x="24.5" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-22" parent="jplNzw6maLhlK2PETsOO-14" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" value="" vertex="1">
+          <mxGeometry height="110" width="120" x="134" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-23" parent="jplNzw6maLhlK2PETsOO-14" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;범죄/신고 데이터&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="65" x="162" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-24" parent="jplNzw6maLhlK2PETsOO-14" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="경찰청" vertex="1">
+          <mxGeometry height="20" width="71" x="158" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-25" parent="jplNzw6maLhlK2PETsOO-14" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="검찰청" vertex="1">
+          <mxGeometry height="20" width="71" x="158" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-26" parent="jplNzw6maLhlK2PETsOO-14" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="서울시" vertex="1">
+          <mxGeometry height="20" width="71" x="158.5" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-27" parent="jplNzw6maLhlK2PETsOO-13" style="rounded=0;whiteSpace=wrap;html=1;" value="민관경 데이터" vertex="1">
+          <mxGeometry height="20" width="81.5" x="86.25" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-28" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="86.5" width="120" x="520" y="316.75" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-29" parent="jplNzw6maLhlK2PETsOO-28" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="78.5" width="120" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="마약탐지모듈" vertex="1">
+          <mxGeometry height="20" width="86" x="537" y="332.75" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="라커 시스템" vertex="1">
+          <mxGeometry height="20" width="95" x="532.5" y="310.75" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="사용자" vertex="1">
+          <mxGeometry height="40.75" width="50" x="714" y="339.63" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="음성긴급호출" vertex="1">
+          <mxGeometry height="24" width="80" x="472" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-40" edge="1" parent="1" source="jplNzw6maLhlK2PETsOO-29" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="jplNzw6maLhlK2PETsOO-38" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="610" y="420" as="sourcePoint" />
+            <mxPoint x="640" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-41" connectable="0" parent="jplNzw6maLhlK2PETsOO-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;QR/OTP&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;인증&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.019" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="시민" vertex="1">
+          <mxGeometry height="40.75" width="60" x="390" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-43" edge="1" parent="1" source="jplNzw6maLhlK2PETsOO-42" style="endArrow=none;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startFill=1;endFill=0;" target="jplNzw6maLhlK2PETsOO-1" value="범죄피해경고">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="530" as="sourcePoint" />
+            <mxPoint x="420" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="범죄자" vertex="1">
+          <mxGeometry height="23.5" width="40.75" x="630.63" y="454.75" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-45" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" target="jplNzw6maLhlK2PETsOO-44" value="심리적&lt;div&gt;억제&lt;/div&gt;">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="558" y="467" as="sourcePoint" />
+            <mxPoint x="596" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="이상이용감지" vertex="1">
+          <mxGeometry height="20" width="86" x="537" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;QR/OTP&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="86" x="537" y="377" as="geometry" />
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-52" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="jplNzw6maLhlK2PETsOO-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="375" as="sourcePoint" />
+            <mxPoint x="353" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jplNzw6maLhlK2PETsOO-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=default;dashed=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- 위험도 분석 AI&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- 출동 우선순위 산정&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- 관제 알림·이력 관리&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- CCTV 커버리지 취약도 분석&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- 의심상황 위험도 판단&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- 로봇 출동·경고 제어&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="110" x="140" y="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
